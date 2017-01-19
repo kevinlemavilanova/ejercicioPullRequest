@@ -6,7 +6,7 @@
 package ejerciciopullrequest;
 
 /**
- *
+ * Ejercicio para repasar el Pull Request
  * @author damian
  */
 public class EjercicioPullRequest {
