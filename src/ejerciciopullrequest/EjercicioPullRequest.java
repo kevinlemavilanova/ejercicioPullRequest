@@ -15,13 +15,7 @@ public class EjercicioPullRequest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-            Properties props = new Properties();
-     
-    props.put("mail.smtp.host","mail.lineadecodigo.com");
-    props.put("mail.transport.protocol","smtp");
-    props.put("mail.smtp.auth", "true");
-    props.setProperty("mail.user", "myuser");
-    props.setProperty("mail.password", "mypwd");
+        // TODO code application logic here
     }
     
 }
